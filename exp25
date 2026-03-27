@@ -1,0 +1,16 @@
+mca@MCA16:~/Desktop/ibrahim/Network lab$ chmod +x sum.sh
+mca@MCA16:~/Desktop/ibrahim/Network lab$ ./sum.sh
+ Enter two numbers: 2
+./sum.sh: line 4: 2 +  : syntax error: operand expected (error token is "+  ")
+mca@MCA16:~/Desktop/ibrahim/Network lab$ ./sum.sh
+ Enter two numbers: 2 4
+Sum = 6
+mca@MCA16:~/Desktop/ibrahim/Network lab$ chmod +x evenodd.sh
+mca@MCA16:~/Desktop/ibrahim/Network lab$ ./evenodd.sh
+Enter a number: 5
+5 is Odd
+mca@MCA16:~/Desktop/ibrahim/Network lab$ chmod +x factorial.sh
+mca@MCA16:~/Desktop/ibrahim/Network lab$ ./factorial.sh
+Enter a number: 5
+Factorial = 120
+

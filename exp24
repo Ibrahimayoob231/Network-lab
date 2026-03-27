@@ -1,0 +1,67 @@
+mca@MCA16:~/Desktop/ibrahim/Network lab$ chmod +x right.sh
+mca@MCA16:~/Desktop/ibrahim/Network lab$ /right.sh
+bash: /right.sh: No such file or directory
+mca@MCA16:~/Desktop/ibrahim/Network lab$ / right.sh
+bash: /: Is a directory
+mca@MCA16:~/Desktop/ibrahim/Network lab$ ./right.sh
+Enter number of rows:
+2
+* 
+* * 
+mca@MCA16:~/Desktop/ibrahim/Network lab$ ./right.sh
+Enter number of rows:
+9    
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+* * * * * * 
+* * * * * * * 
+* * * * * * * * 
+* * * * * * * * * 
+mca@MCA16:~/Desktop/ibrahim/Network lab$ chmod +x invert.sh
+mca@MCA16:~/Desktop/ibrahim/Network lab$ ./invert.sh
+Enter number of rows:6
+* * * * * * 
+* * * * * 
+* * * * 
+* * * 
+* * 
+* 
+mca@MCA16:~/Desktop/ibrahim/Network lab$ chmod +x pyramid.sh
+mca@MCA16:~/Desktop/ibrahim/Network lab$ ./pyramid.sh
+Enter number of rows:5
+    * 
+   * * 
+  * * * 
+ * * * * 
+* * * * * 
+mca@MCA16:~/Desktop/ibrahim/Network lab$ chmod +x numtriangle.sh
+mca@MCA16:~/Desktop/ibrahim/Network lab$ ./numtriangle.sh
+Enter number of rows:5    
+1 
+1 2 
+1 2 3 
+1 2 3 4 
+1 2 3 4 5 
+mca@MCA16:~/Desktop/ibrahim/Network lab$ chmod +x invertnum.sh
+mca@MCA16:~/Desktop/ibrahim/Network lab$ ./invertnum.sh
+Enter number of rows: 5
+1 2 3 4 5 
+1 2 3 4 
+1 2 3 
+1 2 
+1 
+mca@MCA16:~/Desktop/ibrahim/Network lab$ chmod +x floyd.sh
+mca@MCA16:~/Desktop/ibrahim/Network lab$ ./floyd.sh
+Enter number of rows: 6
+1 
+2 3 
+4 5 6 
+7 8 9 10 
+11 12 13 14 15 
+16 17 18 19 20 21 
+mca@MCA16:~/Desktop/ibrahim/Network lab$ 
+
+
